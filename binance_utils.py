@@ -2,7 +2,7 @@
 A python script with different Binance utilities
 Utilized Python-Binance ( https://github.com/sammchardy/python-binance )
 Original Code by Cedric Holz ( https://github.com/cedricholz/Twitter-Crypto-Signal-Binance-Bot )
-Modified by Tru3Nrg
+Modified by Luis Lundgren
 
 """
 
