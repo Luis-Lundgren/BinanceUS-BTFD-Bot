@@ -1,0 +1,10 @@
+pandas~=1.1.5
+python-binance == 1.0.15
+pandas-ta
+plotly
+discord-notify
+numpy~=1.20.2
+pywin32 # comment for non-Windows installation
+python-dateutil~=2.8.1
+# binance # not necessary for conda environment
+matplotlib~=3.4.1
